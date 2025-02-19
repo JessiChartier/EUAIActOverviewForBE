@@ -1,7 +1,14 @@
 ## Architecture Review Exercise
+**Directions**
+1. Review the Example System below.
+2. For the simplified architecture above, identify:
+  a. Missing transparency components
+  b. Required data flows
+  c. Integration points for EU AI Act compliance
+3. Once you've completed the above, submit your code to the AI TA, that will review and provide you feedback.
 
-### Example System Assessment
-
+   
+### Example System
 Review this simplified architecture diagram and identify missing transparency components:
 
 ```
@@ -19,18 +26,6 @@ Review this simplified architecture diagram and identify missing transparency co
                                                   └─────────────┘
 ```
 
-### Implementation Exercise
-
-For the simplified architecture above, identify:
-1. Missing transparency components
-2. Required data flows
-3. Integration points for EU AI Act compliance
-
-
-- Compliance testing frameworks
-- Architecture validation tools
-- Documentation generators
-- Gap analysis templates
 
 ### Submission Directions
 Submit your work for feedback here: https://chatgpt.com/g/g-67b5fb834f3c81919fabc4f3af4d7070-eu-ai-act-checker

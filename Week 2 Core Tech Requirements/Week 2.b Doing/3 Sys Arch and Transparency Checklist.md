@@ -1,7 +1,3 @@
-
-# Part 3: Architecture Review and Testing (10 minutes)
-## Self-Assessment Checklist
-
 ### Mandatory Transparency Requirements Checklist
 
 Use this checklist to evaluate your system architecture against EU AI Act transparency requirements:

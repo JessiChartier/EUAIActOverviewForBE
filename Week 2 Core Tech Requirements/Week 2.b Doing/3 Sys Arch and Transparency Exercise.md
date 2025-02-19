@@ -1,4 +1,4 @@
-## Architecture Review Exercise
+## System Architecture and Transparency Exercise
 
 **Level of Difficulty**: Medium
 

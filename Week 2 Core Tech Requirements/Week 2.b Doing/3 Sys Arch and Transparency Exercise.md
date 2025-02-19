@@ -1,13 +1,17 @@
 ## Architecture Review Exercise
-**Directions**
+
+**Level of Difficulty**: Medium
+
+**Estimated Time**: 10 mins
+
+**Instructions**
 1. Review the Example System below.
 2. For the simplified architecture above, identify:
   a. Missing transparency components
   b. Required data flows
   c. Integration points for EU AI Act compliance
 3. Once you've completed the above, submit your code to the AI TA, that will review and provide you feedback.
-
-   
+-----
 ### Example System
 Review this simplified architecture diagram and identify missing transparency components:
 

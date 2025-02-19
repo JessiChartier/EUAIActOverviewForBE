@@ -10,7 +10,7 @@
   a. Missing transparency components
   b. Required data flows
   c. Integration points for EU AI Act compliance
-3. Once you've completed the above, submit your code to the [![AI TA] (https://chatgpt.com/g/g-67b5fb834f3c81919fabc4f3af4d7070-eu-ai-act-checker), that will review and provide you feedback.
+3. Once you've completed the above, submit your code to the [AI TA](https://chatgpt.com/g/g-67b5fb834f3c81919fabc4f3af4d7070-eu-ai-act-checker), that will review and provide you feedback.
 
 Note:
 Your submission with feedback and the conversation you have with the AI TA will be recorded as part of your completion. 

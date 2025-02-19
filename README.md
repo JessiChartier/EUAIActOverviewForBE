@@ -19,5 +19,8 @@ By the end of the course, learners will be able to:
 - Recognize technical safeguards needed for high-risk AI systems
 - Explain the verification approaches for testing compliance requirements
 
+### Resources
+
 [![Resource: The Website is Down](https://i.ytimg.com/vi/uRGljemfwUE/hqdefault.jpg)](https://www.youtube.com/watch?v=uRGljemfwUE)
+
 *Right click to open video in new tab*

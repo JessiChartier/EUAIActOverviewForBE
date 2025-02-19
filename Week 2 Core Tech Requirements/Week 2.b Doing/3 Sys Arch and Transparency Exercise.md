@@ -16,6 +16,9 @@
 Note:
 Your submission with feedback and the conversation you have with the AI TA will be recorded as part of your completion. 
 
+<p style="text-align: center;">Questions?</p> 
+Ask the AI TA. Make sure you specifify that you're working on the Systems Architecture and Transparency excercise before asking your questions. 
+
 -----
 ### Example System
 Review this simplified architecture diagram and identify the: 

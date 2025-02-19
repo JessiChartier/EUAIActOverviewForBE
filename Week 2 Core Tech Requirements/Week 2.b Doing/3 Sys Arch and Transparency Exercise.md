@@ -10,10 +10,17 @@
   a. Missing transparency components
   b. Required data flows
   c. Integration points for EU AI Act compliance
-3. Once you've completed the above, submit your code to the AI TA, that will review and provide you feedback.
+3. Once you've completed the above, submit your code to the [![AI TA] (https://chatgpt.com/g/g-67b5fb834f3c81919fabc4f3af4d7070-eu-ai-act-checker), that will review and provide you feedback.
+
+Note:
+Your submission with feedback and the conversation you have with the AI TA will be recorded as part of your completion. 
+
 -----
 ### Example System
-Review this simplified architecture diagram and identify missing transparency components:
+Review this simplified architecture diagram and identify the: 
+- Missing transparency components
+- Required data flows
+- Integration points for EU AI Act compliance
 
 ```
 ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐
@@ -30,9 +37,3 @@ Review this simplified architecture diagram and identify missing transparency co
                                                   └─────────────┘
 ```
 
-
-### Submission Directions
-Submit your work for feedback here: https://chatgpt.com/g/g-67b5fb834f3c81919fabc4f3af4d7070-eu-ai-act-checker
-Your submission with feedback and the conversation you have with the AI TA will be recorded as part of your completion. 
-
-Remember: The EU AI Act specifies **what** transparency capabilities your architecture must support, but the **how** of implementation is flexible and should align with your organization's technical stack and practices.

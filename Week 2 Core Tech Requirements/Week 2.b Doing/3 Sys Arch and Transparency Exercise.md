@@ -16,8 +16,8 @@
 Note:
 Your submission with feedback and the conversation you have with the AI TA will be recorded as part of your completion. 
 
-<p style="text-align: center;">Questions?</p> 
-Ask the AI TA. Make sure you specifify that you're working on the Systems Architecture and Transparency excercise before asking your questions. 
+**Questions?** 
+Ask the [AI TA](https://chatgpt.com/g/g-67b5fb834f3c81919fabc4f3af4d7070-eu-ai-act-checker). Make sure you specifify that you're working on the Systems Architecture and Transparency excercise before asking your questions. 
 
 -----
 ### Example System
